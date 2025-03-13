@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am going to be unemployed soon (last working day 31st March 2025).
+Hence, I am going to make use of this free time to upskill myself with
+advanced programming knowledge so that I can find better job opportunities.
