@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - I am going to be unemployed soon (last working day 31st March 2025). :cry:
 - Hence, I am going to make use of this free time to upskill myself with
 advanced programming knowledge so that I can find better job opportunities. :muscle:
-- I also want to learn more about machine learning and particularly in Generative AI because I find that very interesting indeed. :+1:
+- I also want to learn more about machine learning and particularly in Generative AI because I find that this area very interesting indeed. :+1:
