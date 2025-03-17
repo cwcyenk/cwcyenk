@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - Hence, I am going to make use of this free time to upskill myself with
 advanced programming knowledge so that I can find better job opportunities. :muscle:
 - I also want to learn more about machine learning and particularly in Generative AI because I find that this area very interesting indeed. :+1:
-
-![axolotl](https://user-images.githubusercontent.com/110885554/186362310-d5c6e677-5b67-49b2-bf77-e0f41e5b1949.png)
